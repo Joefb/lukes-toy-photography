@@ -1,8 +1,8 @@
 const Footer = () => {
   return (
-    <div>
-      <p>Footer</p>
-    </div>
+    <footer>
+      <p>© 2025 Lukes Toy Photography. All rights reserved.</p>
+    </footer>
   )
 }
 
